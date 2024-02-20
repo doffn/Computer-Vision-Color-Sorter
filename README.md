@@ -38,7 +38,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ## Credits 🙌
 
-This project was created by Dawit Neri 
+This project was created by **Dawit Neri**
 
 ## Support 💬
 
