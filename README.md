@@ -31,6 +31,8 @@ python main.py
 3. Click the "Verify" button to verify only one Frame Photo.
 4. Click the "Verify in video" to verify in videos.
 5. Enjoy experimenting with different models and objects!
+6. If everything goes well, you will get a GUI that looks like
+![Image Description](https://github.com/yourusername/repositoryname/blob/main/images/image.jpg)
 
 ## Contributing 💡
 
