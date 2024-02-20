@@ -32,7 +32,9 @@ python main.py
 4. Click the "Verify in video" to verify in videos.
 5. Enjoy experimenting with different models and objects!
 6. If everything goes well, you will get a GUI that looks like
-[![Image Description](https://github.com/doffn/Computer-Vision-Color-Sorter/blob/main/UI_look.png)]
+
+
+[![Image Description](https://github.com/doffn/Computer-Vision-Color-Sorter/blob/main/UI_look.png)
 
 ## Contributing 💡
 
