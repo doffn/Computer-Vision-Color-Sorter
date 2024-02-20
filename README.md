@@ -17,7 +17,9 @@ To get started with the Red and Green Color Predictor, follow these steps:
 
 pip install -r requirements.txt
 
-3. Run the Kivy app:
+3. Make sure the tflite model is inside the directory
+
+4. Run the Kivy app:
 
 python main.py
 
@@ -32,7 +34,7 @@ python main.py
 
 ## Contributing 💡
 
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. If you want to edit the model use [Google Collab](https://colab.research.google.com/drive/1K03LQVsFGbFv850a_9qndiSCpt_QMh7M?usp=sharing).
 
 ## Credits 🙌
 
