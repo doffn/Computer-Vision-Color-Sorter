@@ -26,8 +26,10 @@ class CamApp(App):
         self.button = Button(text="Verify", on_press=self.verify, size_hint=(1, 0.4), )
         self.button1 = Button(text="Verify in video", on_press=self.toggle_video_verification, size_hint=(1, 0.4), )
         self.verification_label = Label(text="Verification Uninitiated", size_hint=(1, 0.2))  # Taking 20% height
-        self.url = "http://192.168.233.205:8080/video" 
-
+        # if You are using an IP camera use a url
+        #self.url = "http://192.000.000.000:8080/video" 
+        self.url = 0
+        
         # Set background color of button1 to green
         self.button1.background_color = get_color_from_hex('#00FF00')  # Green color
 
