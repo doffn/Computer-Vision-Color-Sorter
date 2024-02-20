@@ -30,11 +30,11 @@ python main.py
 2. connect a camera to the computer. You can use your `webcam` or `IP cameras` using your phone.
 3. Click the "Verify" button to verify only one Frame Photo.
 4. Click the "Verify in video" to verify in videos.
-5. Enjoy experimenting with different Objects and colors!
+5. Enjoy experimenting with different models and objects!
 
 ## Contributing 💡
 
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. If you want to edit the model use [Google Collab](https://colab.research.google.com/drive/1K03LQVsFGbFv850a_9qndiSCpt_QMh7M?usp=sharing).
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. If you want to edit the model use [Google Notebook](https://colab.research.google.com/drive/1K03LQVsFGbFv850a_9qndiSCpt_QMh7M?usp=sharing).
 
 ## Credits 🙌
 
