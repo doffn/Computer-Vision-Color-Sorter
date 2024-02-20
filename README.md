@@ -1,6 +1,6 @@
 # Red and Green Color Predictor 🚦
 
-Welcome to the Red and Green Color Predictor project! This TensorFlow-based computer vision model is designed to predict whether an input image contains predominantly red or green colors. The project includes a user-friendly GUI developed using the Kivy framework.
+Welcome to the Red and Green Color Predictor project! This TensorFlow-based computer vision model is designed to predict whether an object contains red color. It utilizes computer vision techniques to preprocess the input frames and employs a TensorFlow Lite (TFLite) model for prediction. Additionally, the project features a user-friendly graphical user interface (GUI) developed using the Kivy framework.
 
 ## Features 🎨
 
