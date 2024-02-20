@@ -15,11 +15,11 @@ To get started with the Red and Green Color Predictor, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies by running:
 
-** pip install -r requirements.txt **
+pip install -r requirements.txt
 
 3. Run the Kivy app:
 
-** python main.py**
+python main.py
 
 
 ## Usage 🖥️
