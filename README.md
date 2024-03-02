@@ -34,7 +34,7 @@ python main.py
 6. If everything goes well, you will get a GUI that looks like
 
 
-[![Image Description](https://github.com/doffn/Computer-Vision-Color-Sorter/blob/main/UI_look.png)
+![Image Description](https://github.com/doffn/Computer-Vision-Color-Sorter/blob/main/UI_look.png)
 
 ## Contributing 💡
 
