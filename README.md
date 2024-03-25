@@ -1,4 +1,4 @@
-# Red and Green Color Predictor 🚦
+# Red and Green Tomato Predictor 🚦
 
 Welcome to the Red and Green Color Predictor project! This TensorFlow-based computer vision model is designed to predict whether an object contains red color. It utilizes computer vision techniques to preprocess the input frames and employs a TensorFlow Lite (TFLite) model for prediction. Additionally, the project features a user-friendly graphical user interface (GUI) developed using the Kivy framework.
 
