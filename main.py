@@ -98,7 +98,7 @@ class CamApp(App):
 
         start = time.time()
         # Capture input image from the webcam
-        save_path = os.path.join('application_data', 'input_image', 'input_image.jpg')
+        save_path = os.path.join('input_image', 'input_image.jpg')
         ret, frame = self.capture.read()
         frame = frame[120:120 + 250, 200:200 + 250, :]
         cv2.imwrite(save_path, frame)
