@@ -17,6 +17,9 @@ from PIL import Image as PILImage
 import numpy as np
 import os
 import time
+import logging
+
+Logger = logging.getLogger(__name__)  # Replace __name__ with the appropriate logger name
 
 class CamApp(App):
 
@@ -94,8 +97,6 @@ class CamApp(App):
         return output_data
 
     def verify(self, *args):
-        import time
-
         start = time.time()
         # Capture input image from the webcam
         save_path = os.path.join('input_image', 'input_image.jpg')
