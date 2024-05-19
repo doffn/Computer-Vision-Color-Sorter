@@ -38,7 +38,7 @@ python main.py
 
 ## Contributing 💡
 
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. If you want to edit the model use [Google Notebook](https://colab.research.google.com/drive/1K03LQVsFGbFv850a_9qndiSCpt_QMh7M?usp=sharing).
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. If you want to edit the model use [Google Notebook](https://github.com/doffn/Computer-Vision-Color-Sorter/blob/main/Red_and_Green_Sorter_CNN_Tensorflow_Model.ipynb).
 
 ## Credits 🙌
 
